@@ -2,9 +2,9 @@
 My dataset is based on the most streamed Spotify songs of 2023. I picked this data because one of my pastimes is listening to music. 
 In this project, I will see how this can be useful in a real-life scenario.
 # Questions
-1. What are the top 5 songs and artists released in 2023?
-2. What are the 5 least popular songs and artists released in 2023?
-3. What are the top 10 most popular songs of 2023?
+1. What are the top 5 songs released in 2023?
+2. What are the 5 least popular songs released in 2023?
+3. What are the top 10 most popular songs of 2022?
 4. What is the most popular song in both Spotify, Apple Music, and Deezer playlists combined?
 5. Which song has the highest danceability and energy percentage combined in each year?
 6. What is the most popular song in B and C# Major Key?
